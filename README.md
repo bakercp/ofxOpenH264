@@ -1,2 +1,4 @@
-# ofxOpenH264
-openFrameworks addon for https://github.com/cisco/openh264
+ofxOpenH264
+=========
+
+Raw H264 bitstream decoder.
